@@ -15,3 +15,5 @@ errors_link.txt
 version*
 errors.txt
 *~
+*.obj
+.vs/
